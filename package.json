@@ -1,8 +1,9 @@
 {
   "name": "@exequielbc/yt2mp3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Download YouTube videos to MP3 files.",
   "main": "main.js",
+  "bin": "./main.js",
   "dependencies": {
     "clipboardy": "^2.3.0",
     "ora": "^5.3.0",

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const superagent = require('superagent');
 const fs = require('fs');
 const ora = require('ora');
