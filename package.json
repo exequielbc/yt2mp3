@@ -1,0 +1,32 @@
+{
+  "name": "@exequielbc/yt2mp3",
+  "version": "0.0.1",
+  "description": "Download YouTube videos to MP3 files.",
+  "main": "main.js",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "ora": "^5.3.0",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/superagent": "^4.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exequiel Bahamonde Cárcamo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exequielbc/yt2mp3.git"
+  },
+  "keywords": [
+    "youtube",
+    "youtubetomp3",
+    "youtubedownloader"
+  ],
+  "bugs": {
+    "url": "https://github.com/exequielbc/yt2mp3/issues"
+  },
+  "homepage": "https://github.com/exequielbc/yt2mp3#readme"
+}
